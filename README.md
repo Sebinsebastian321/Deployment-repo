@@ -1,2 +1,2 @@
 # Deployment-repo
-his repo contains .py files for deployment
+This repo contains .py files for deployment
